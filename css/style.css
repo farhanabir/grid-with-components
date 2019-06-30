@@ -1,0 +1,24 @@
+.header , .hero , .body , .footer , .bar , .extra{
+	margin-top: 10px;
+	margin-bottom: 10px;	
+	background-color: grey;
+	color: purple;
+}
+.bg{
+	background-color:teal;
+	min-height: 100px;
+	text-align: center;
+	color: black;
+	border:2px solid black;
+	margin-bottom: 10px;
+}
+.red{
+	background-color: lightblue;
+	border:2px solid black;
+	min-height: 100px;
+	text-align: center;
+	color: black;
+}
+.h5_custom{
+	margin-left: 20px;
+}
